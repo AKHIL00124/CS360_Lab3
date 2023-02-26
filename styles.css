@@ -1,12 +1,12 @@
 .gallery{
-    background-color: aquamarine;
+    background-color: rgb(57, 249, 185);
     padding: 50px;
 }
 img{
-    max-width: 100%;
+    max-width: 50%;
 }
 .gallery img{
-    background-color: blanchedalmond;
+    background-color: rgb(249, 168, 47);
     padding: 20px;
     width: 100%;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
